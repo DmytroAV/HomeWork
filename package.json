@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "prettier": "2.8.4"
+  },
+  "dependencies": {
+    "basiclightbox": "^5.0.4"
   }
 }
